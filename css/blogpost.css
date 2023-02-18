@@ -1,0 +1,156 @@
+
+.blogpost {
+  background-image: linear-gradient(to bottom, rgba(17, 49, 71, 0.452), rgba(45, 95, 126, 0.337)), url(/assets/bu_cover.jpg);
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  min-height: 20rem;
+  margin: 2rem;
+  margin-top: 1.5rem;
+  border-radius: .5rem;
+
+}
+.myblog{
+  background: rgba(0, 0, 0, 0.326);
+  display: block;
+  border-radius: .5rem;
+
+  height: 100%;
+  width: 100%;
+  padding: 1rem;
+}
+
+.mytitle {
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    letter-spacing: .1rem;
+}
+
+
+
+.blogpost2{
+  background-image: linear-gradient(to bottom, rgba(17, 49, 71, 0.452), rgba(45, 95, 126, 0.337)), url(/assets/bu_cover.jpg);
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  min-height: 20rem;
+  margin-top: 1.5rem;
+  border-radius: .5rem;
+
+}
+
+.blogpost3 {
+  background-image: linear-gradient(to bottom, rgb(17 49 71 / 0%), rgb(126 45 45 / 26%)), url(/assets/profile.jpg);
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  min-height: 20rem;
+  margin-top: 1.5rem;
+  border-radius: 0.5rem;
+}
+.myblog2{
+  background: rgba(0, 0, 0, 0.326);
+  display: block;
+  border-radius: .5rem;
+  
+  height: 100%;
+  width: 100%;
+  padding: 1rem;
+}
+
+.mytitle2 {
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    letter-spacing: .1rem;
+
+}
+
+.myblog3 {
+  background: rgb(0 0 0 / 25%);
+  display: block;
+  border-radius: 0.5rem;
+  height: 100%;
+  width: 100%;
+  padding: 0.5rem;
+}
+.mytitle3 {
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    font-size: 1.5rem;
+
+}
+
+.superv_name {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  padding: 0;
+  margin-bottom: 0rem;
+  color: #2374e1;
+}
+.superv {
+  margin-top: 0.2rem;
+  font-weight: 400;
+  padding: 0;
+  margin-bottom: 0rem;
+}
+.superv_profile{
+  margin-top: .5rem;
+}
+.superv_profile a {
+  padding: 0.1rem;
+  padding-right: 0.3rem;
+  background: #e3f3ff;
+  display: inline-block;
+  margin: 0.2rem;
+  padding-left: 0.3rem;
+  border-radius: 0.2rem;
+}
+
+
+.blogpost4 {
+  background-image: linear-gradient(to bottom, rgb(17 49 71 / 0%), rgb(126 45 45 / 26%)), url(/assets/profile.jpg);
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  background-repeat: no-repeat;
+  min-height: 15rem;
+  margin-top: 1.5rem;
+  border-radius: 0.5rem;
+}
+
+.members h2 {
+  text-align: center;
+  margin-top: 1rem;
+  border-bottom: 0.1px solid #1d89aad6;
+  padding: 0.3rem;
+  font-size: 1.5rem;
+  color: #0d2d37d6;
+  background: linear-gradient(0deg, #cef6ff, transparent);
+}
+
+
+
+.member_name {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  padding: 0;
+  margin-bottom: 0rem;
+  color: #2374e1;
+}
+
+.members_card{
+  background: linear-gradient(0deg, #eafbff, transparent);
+
+}
