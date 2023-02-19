@@ -666,7 +666,7 @@ section-7 {
 }
 
 .sectionfooter {
-    min-height: 60vh;
+    min-height: 40vh;
     background: #ffffff;
     background: linear-gradient(135deg, #ffffff 0%, rgba(189, 220, 255, 0.84) 100%);
     color: rgb(53, 60, 72);
@@ -674,7 +674,7 @@ section-7 {
 
 .footersection {
     width: 80%;
-    margin: 0 auto;
+    margin:  auto;
 }
 
 .footerlogo {
@@ -733,6 +733,7 @@ section-7 {
 .sociallinks hr {
     margin: .7rem;
     margin-bottom: .5rem;
+    margin-top: 10px;
     margin-left: 0rem;
     margin-right: 0rem;
     width: 60%;

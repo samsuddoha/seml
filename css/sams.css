@@ -38,3 +38,8 @@ ul.list {
     font-size: 40px;
     border-radius: 10px;
   }
+
+  table tr td{
+    background-color: #d9f5fc;
+
+  }
