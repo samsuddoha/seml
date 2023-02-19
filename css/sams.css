@@ -1,0 +1,40 @@
+
+.research_title{
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    line-height: 1.428571429;
+    color: #555;
+    font-weight: bold;
+
+}
+.author_name{
+    font-style: italic !important;
+}
+.author_seperate{
+    font-size: 5px;
+}
+.research_project{
+
+    color: rgba(33,33,33,1);
+    font-family: 'Playfair Display', serif;
+    font-size: 29pt;
+    font-weight: 400;
+    letter-spacing: -1px;
+    line-height: 1.44;
+}
+
+ul.list {
+    list-style-type: square;
+    margin-left: 30px;
+    margin-top: 10px;
+  }
+  ul li{
+    margin-top: 6px ;
+  }
+  .profile_image{
+    border-radius: 8px;
+  }
+  .icon_large{
+    font-size: 40px;
+    border-radius: 10px;
+  }
